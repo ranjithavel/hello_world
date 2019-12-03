@@ -1,3 +1,7 @@
 Git is the most popular DCVS
 Git is a free open source software
 Git can effectively communicate with github
+
+
+Github is a server
+It supports git server
